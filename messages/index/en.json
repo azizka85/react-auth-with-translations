@@ -1,0 +1,10 @@
+{
+  "Index": {
+    "title": "Next App with Authentication and Translation",
+    "welcome": "Welcome to Next.js App!",
+    "start": "Get started by signing in",
+    "finish": "Hi {email}. To finish work click on",
+    "signin": "Sign In",
+    "signout": "Sign Out"
+  }
+}
